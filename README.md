@@ -1,4 +1,4 @@
-# 🛡️ AegisAI
+# T-Rex
 ### The Ultimate Cross-Platform Autonomous AI Assistant
 ### The Ultimate Cross-Platform Autonomous AI Assistant
 
@@ -198,5 +198,7 @@ Licensed under **[Creative Commons Attribution-NonCommercial 4.0 International (
 * **Project Repository**: [T-Rex](https://github.com/dorbygamingoffical-bit/T-rex)
 * **Support**: ⭐ Star the repository to support ongoing development towards MARK 100!
 
-#   T - r e x  
+#   T - r e x 
+ 
+ #   T - r e x  
  
